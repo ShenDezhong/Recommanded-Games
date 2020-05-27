@@ -1,0 +1,14 @@
+Welcome to the multiplayer, open-world of MiniState. Wage war, trade, and build alliances to build the greatest nation the world will ever know.
+
+PERSISTENCE:
+All players coexist in a single, massive, ever-expanding world. The world is never reset, allowing nations to stand the test of time.
+EXPAND:
+Collect resources and construct new, impressive structures over the days, weeks, and months.
+WARFARE:
+Fight battles on instanced maps. Plan your attacks and prepare your defenses!
+TRADE:
+Trade with your neighbors to gain the upper hand. Monopolize rare resources and conquer vital waterways to control global trade.
+DIPLOMACY:
+Establish a federation to unite your friends into a single mighty empire.
+CUSTOMIZATION:
+Create custom national anthems, flags, and leader profiles to make the nation yours.

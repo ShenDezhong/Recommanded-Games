@@ -1,0 +1,136 @@
+"**THIS IS FOR PLAYERS WHO ALL READY HAVE WARGAMIN LOGINS **
+**THIS MAY ALSO NOT LET YOU ACHIEVE THE ACHIEVEMENTS ON STEAM**
+Reason why: When you remove your steam account on this game and log in to your own Wargaming account,
+Steam does not register your steam name or account ID in the game wich that you cant earn the steam achievements at all so think do you want to get the achievements or don't you decide
+what you want to do.
+Okay frist of all when you get this game on steam verison its going to let you creat a ingame account when you do that and load in to the game were you see your ships exit the game go to game Library left click WoW and open the game file when you get the game file you should see a file called steam_api.dll rename it to org_steam_api.dll then save it and go back to WoW and it will say login and boom there you go you now can use your Wargaming account i hope this was helpfull.
+AND THIS GAME IS WAY BETTER THEN ANY WARSHIP GAMES"if you want play on your wargaming account just go to steam>steamapps>commom>world of warships and rename steam_api.dll filethe thing we're at war with are the microtransactions"At the current state of the game, they just don't care about the playerbase unless you throw money at them.
+Just stay away from it until they actually put the players first.
+TBH, the christmas event ""free tier 10 ship"" is a impossible joke, they lied in our faces.""If you played any other Wargaming multiplayer game you should know already what to expect.
+As much as I enjoyed World of Warships for a long time, I cannot in good conscience recommend it. I played way more than the 200-ish hours before (and after) the game went on Steam. Gameplay is fun as soon as you take a couple of hours to understand the mechanics. Graphics are fine, so are the sounds and music.
+Here comes the ""but"" - devs are using every single trick in the book to coerce you into paying. The game is addictive in real drug dealer style. At first, up to about tier 5, you get the good stuff. It's easy to earn credits, you unlock new modules and ships every few battles, you feel like you are progressing and making a difference. And when you're hooked, you hit the wall. Game becomes a grindfest. You need to play lower tier battles just to make credits. UNLESS you buy a premium account. Or a premium ship. Or premium camouflages. You have oh so many options. You can also buy lootboxes, err I mean containers. Or skip the middle men and just buy credits outright with real money.
+There is a ton of events where you can win premium stuff for free, so that's nice. BUT, expect to get hit with enormous amounts of grind, thats where ""loss aversion marketing"" kicks in. After all you can just pay and get that prem thingie right now. They really outdid temselves in British Destroyers event - you could earn ""guineas"" to get a premium tier 8 british destroyer. You just needed to get 50 guineas, which you could earn at a rate of 4 per week, or buy at I think about 0.75 euro apiece. But here's the catch - you could only earn 48 guineas by playing. If you wanted the ship you had to pay something. And I bet a lot of players didn't read the event announcement (extremely long because the event was complicated like hell) carefully enough to notice that you couldn't earn all the 50 guineas in game.
+This game is the meth of gaming. Steer clear unless you are strong-willed or willing to spend a lot of money""As a long time player of WoWs, we're going to focus the review on the game, not the circumstances around its release.
+The Premise:
+- 12 v 12, 20 minute, Naval battles.
+- Focus is on either: holding cap points, defending base cap, or full out enemy destruction.
+- 4 classes of ships with different play styles: Carrier (CV), Battleship (BB), Cruiser (CA/CL) and Destroyer (DD)
+- Several nations including: American, Brittish, Russian, German, and French.
+You will like:
+- The stunning graphics.
+- Dynamic and evolving music.
+- The satisfaction of nuking an enemy ship.
+- 20 minute game times, not having to sit down for hours on end to play one game.
+- The diverse range of historically reflective ships available for play.
+You won't like:
+- Getting detontated, seriously, wear anti-det flags.
+The idea around this game is super simple, you're in a ship, your objective is to reach 1000 points before the enemy team, but what makes this different from other games is how you go about it. Do you defend your cap, do you attack theirs, or do you chase their DD to the A line (you don't!). While the concept is simple what diversifies this game is the 150+ships available for use (majority of which can be earnt) and the 20+ maps available to play on. Every match you play will be different.
+The development and publishing staff work tirelessly on upgrading and improving the game through release of new content, and tweeking of existing content. A new patch is typically pushed every 3 weeks. Since beta the original 8 lines of ships has expanded into over 20 lines of available types/nations of ships.""I installed the steam version of this game just to write this review to prevent other players from wasting their time. After playing this game for thousands of hours and having multiple top tier ships, I can strongly recommend that new players do NOT waste their time with the game. Unfortunately, my hours will not show up on Steam because I use the official launcher.
+As with most free games, the grinding model is completely unreasonable. Initially you'll be able to get enough XP to get up to a tier 5 ship pretty quickly. By then the greedy developers hope to have you hooked on the game. After tier 5 the XP requirement grows exponentially. If you don't spend any money on the game it will take you an incredible amount of time to get to the upper tiers, and even if you do spend money to get boosted XP it will still take forever. The pay-to-win aspect of the game is disgusting and overpriced.
+
+The developers are incredibly greedy and will put out whatever half モモモモ content update they can so that it gives the illusion that they are keeping their game fresh. The community is horrific. The gameplay gets stale very quickly and as many others have stated, be prepared to lose A LOT. It is an incredibly team oriented game, but there is zero penalty for the massive amount of players that completely ignore that aspect. The average game takes around 20 minutes and you better hope you're on the winning side. If you're not, you will spend those 20 minutes wondering if you should just save yourself the frustration and uninstall the game.
+
+WarGaming as a company is a complete joke. They could care less about their community and the more you play the game the more you realize it. Take some time and read the developer responses to negative reviews on Steam. Of course, they completely ignore the well worded reviews with valid criticism. Instead, they take the time to belittle the people writing the angrier reviews. It's astonishingly unprofessional.
+
+In short, if you enjoy games that have an endless grind, if you don't care about scummy developer practices, and if you have the patience to tolerate excessively losing 20 minute games with a bad community, then you might actually enjoy the game.
+
+EDIT: At the time of this edit, I've noticed the developer responses to negative steam reviews have been MUCH nicer lol. I wish I would've taken screenshots of the reviews before they were changed.
+
+EDIT 2: The developer response to me is quite generic. I might take the time to respond to everything they said, but all they did was say the generic game developer answer to try to make themselves look better. They addressed my review in a vague way that just reads as if it's an advertisement for their game, and some of it seems to be twisting the truth""you made a game, import it to steam and dont let people link your wargaming account via steam.
+Great video game ""development""
+Kudos"I blame Azur Lane for making me play this. Damn ship girl waifus.I finally hit the wall at tier 8 ships after a few hundred hours without paying for credits. The credit service cost on the ships becomes so high you have to buy premium plus play excellent all the time or the post service costs bankrupt you and you have to sell off your earned ships to keep the gamble alive. I paid a little on the up for xp which is the first catch, and I am not paying on the other end to buy credits to keep the russian casino afloat. Im insulted and you got your last penny out of me."TL;DR: Extremely poor pricing (Premium ships can cost as much as a new AAA game), grindy and unrewarding gameplay (without investing an unreasonable amount of time), and a huge learning curve with a toxic community (You'll often be berrated while learning the game).
+Wouldn't recommend. It took me about 600 hours to become average at the game. That time is spent learning mechanics, maps, ships, and strategies, and I've still got a lot to go. You get sucked in because at first getting ships is easy, money is plentiful, and most people don't know what they're doing. However, at certain points grinding for the next ship can be a huge time sink. If you don't have an excess of camos, flags, and premium time the time it will take to progress can easily be three times more. I was motivated to get to tier 10 because I though at that point something would change, but it's more of the same, but worse. It's basically a requirement to bring premium consumables in T8+ matches, they are a massive advantage. However, they are incredibly expensive while you're already barely earning money at those tiers. You're more likely to lose money while playing without premium time. The real kick in the teeth is how Wargaming treats its players. Aggressive pricing, huge time sinks for any kind of reward, and making the game pay to win due to premium ships usually outclassing their counterparts. Comparing this to other free games like Warframe, there's no real excuse for being so stingy with rewards and events."The game has taken the same turn that World of Tanks has. Russian ships are op and other nations have become underwhelming. Take a look at that Italian ship line for further on this. Match Maker in random battles has degenerated into very swing heavy matches where one side wipes out the other in quick succession. So in short more more ships 200+ now has caused the balance to fail. However, per the devs (who are Russian) interviews on Twitch they see their game as great. The experience has just fallen off since the mass expansion from the initial American and Japanese lines. Once a very entertaining game now has gotten bloated in profit finding measures. If World of Tanks is any indication on how this will go I feel that no significant overhaul to the game is going to happen. So devs. please put in the work and put down the spreadsheets cause statistics have not translated into fun in recent times on this platform. Till you do otherwise I will find new companies to spend my time and money on.The update sucks. Aircraft carriers aren't fun to play anymore. Wargaming doesn't care about whether you have fun or not and doesn't listen to it's players. They only care about money."Don't get me wrong. The game itself, the concept, the graphics etc. are really good.
+But this is the typical case of ""Good game, モモモ management"".
+Wargaming is the kind of company that
+- Posts polls in the Forums asking if they should implement a feature. Community says no. They implement anyways.
+- Say that Premium Ships will never be OP. Then release stuff like the Atlanta which is basically a Machinegun-Sniper-Shotgun
+- Put you in a Fight with ships that overpower you in every single aspect, by a lot. Like fighting with your T5 WW1 Ship against a WW2 Gneisenau or so.
+- Just doesn't care about it's players and fixes bugs a lot slower than I know it from other games. Despite being a Billion Dollar Company
+So if anyone/any ocmpany would create a similar game, even with a monthly pricetag, I would switch immediately. You can't do a worse job at managing such a game than wargaming does."The game is fun and well made, but Wargaming is a sketch company that is alienating its players, and I honestly question how long the game will be around. It is already more or less pay to play, because you have to have a premium account to progress in the game, practically speaking. And recently, Wargaming has made things worse than ever, The latest issue was the promise of a new ship that players could grind out for free, as part of a holiday event, yet the grind is hard enough as to be literally impossible. Well, it might be possible for someone who dedicates a full 3.5 weeks to playing, on close to no sleep, with no time for friends or family over the holidays, but only if they are one of the very top players. Even then I'm skeptical. It certainly wouldn't be fun. Thus... when this is your version of a free holiday gift to your players, you are, by definition, a company of asses. Did I mention they made the whole thing so complicated that many people were suckered into spending money to partially complete the ship, not realizing they'd still have to dedicate weeks to the grind, or fork out the full $270 for the ship. Yes, $270 for a virtual ship - not even a great one. Unfathomable. I have no respect for this band of thieves - well, the management."I previously rated this game negatively due to the Puerto Rico event that happened in December. Since then I've noticed a lot of their in game events have been pretty generous with the rewards they offered which had me switching sides in my head already, but the thing that got me to re-rate this positively was the COVID-19 outbreak and their response to it.
+They decided to give everyone, not just premium members, not just people who've purchased ships, everyone 2 weeks of premium time. Now that's decently generous as an olive branch and wasn't enough to change my opinion outright, however, they went ahead and gave us ANOTHER two weeks of premium time adding up to a total of 28 days.
+For a FTP to be willing to give out a month of premium time shows they're starting to change. I don't know what changed in the upper echilons of War Gaming to get them to change this but you've won back my positive review. Keep it up."Stupid config for not able to use wargaming account over the steam version. I have played the game for 4 years and I can tell it is useless to publish the game on steam without letting players to log in with WG account. It will loss more player because of these instead of increasing."Highly recommend the game for new players only, old players see Reddit Fix Easy! to be able to play with old account.(I play on the old launcher because its easier for mods n stuff) I have over 250 hours on the game and have played the game since beta and have many high teir ships. Game mods are lots of fun the recent halloweeen PvE was great, Ranked 7v7 is fun and regular Random battles 12v12 are good too as long as the crack head match maker doesnt f*ck you, Also the game has a regular operation of the week thing which is pretty much PvE. The devs are very active with almost a new update every month adding new ship lines, countries, game modes and maps. One thing different from WoT is the community is way less cancerours.
+Poi""Still pretty new to it (119 hours including idling in port), but I love how tactical this game feels.
+Big fan of the old Battlefield games (1942, 2, 2142), so having no auto heal and friendly fire
+always enabled feels refreshing nowadays ;)
+
+I agree to what other people said, it is slow paced and you need to be able to enjoy that.
+The game does get hectic in your mind though. E.g. if you maneuvered yourself
+into a bad spot and need to keep track of several enemy ships while escaping.
+At the same time some bombers are coming for you and your turrets are closing in on being ready to fire again. So you are tempted to fire a salvo, but at what ship?
+Which ship can you afford not to angle?
+Especially in ten seconds when you'll be forced to evade the torpedos from the bombers...
+
+Yes, the movement is relatively slow to very slow, depending on your class.
+But you still need to make decisions and pro-/re-act to something almost all the time.
+It's just shifted a bit from reacting to stuff to constantly planning ahead of things
+...and then reacting quickly when everything fails ;)
+
+This is where team coordination comes into play and the game reminded me again of how Battlefield felt.While this game can be fun tinkering around solo, it starts to shine
+once you play in a division (squad). Should you even be in a whole team which coordinates,
+it becomes a different animal.
+This is true even for low tier battles having mostly new players in them.
+
+So who would I recommend this game to?
+In my mind, I always distinguished CoD and BF by:
+""You win BF matches with your cerebrum and CoD matches with your cerebellum.""
+(let the flame war begin...) But I don't mean that in a derogative way.
+Both games need experience, training and skill to be good at!
+The games just reward/support different types of skills/playstyles.
+
+Assumption: People who favor the (old?) BF style might like World of Warships.
+People who lean towards CoD might not. Only my humble opinion though.
+The game is F2P, go check it out and make up your own mind. ;)
+
+
+F2P
+Has to be addressed on a F2P game imho.
+To me, it feels pretty fair. Do you get ahead by forking over money? Sure.
+And quite a bit if you want to. But more important for me is:
+Does it get the whales anywhere the casual can't by just playing/grinding?
+And to that the answer - in my opinion - is no.
+
+Cash-Shop exclusive ships do have better stats. But - while still being an 'Ensign' -
+I feel that in end game battles those advantages will most likely only carry you so far.
+Skill and teamplay will be way more important...fingers crossed.
+
+Then again, you get a full blown game for free.
+Giving some money back if you like it/play it a lot seems reasonable.
+And you can fully participate in endgame without paying a single unit of your country's currency. Just limit your expectations regarding the number of ships simultaneously in your inventory, and don't expect everything on a silver platter
+
+<salty>But should you truly expect a F2P game with unlockable stuff and micro transactions not to be grindy, you are probably new to online gaming in general....</salty>""To new players !
+Ignore the negative reviews as most of them are irrelevant to you.
+If you're looking for the best Warships experience, then this is the game for you !""As a free to play game, i had my doubts about World of Warships, however the reality has been pretty good. Until Tier 5-6 you progress fairly quickly and can get through without really needing to pay for a premium account, after that point the difficulty escalates fairly quickly as you start to face players with a serious number of games under their belts. If you learn the ropes you can have some really awesome games
+Advice to anybody wanting to try it is:
+- Not progress through the tiers too quickly
+- Learn the game mechanics around spotting and shell penetration
+- Dont buy a tier 10 premium when you first start as your not going to have a good time
+Other than that, enjoying blatting away with HE at everything that moves!""If you're reading this then you're probably considering whether you should get this game or not.
+Get it.
+Progression is reasonable in tiers 1-4 but from that point on it gets grindy. And that's not necessarily bad. I'm content playing in the tier 4-6 range with no real motivation to power forward. It'll happen over time. You have to have patience. I don't feel like there's a great need or push to make me want to get to the higher tiers. That's refreshing.
+The premium content isn't necessary but I like how they separate the premium ships from the standard progression ships.
+Thanks for reading. Carry on."this new update is bad not worth playing wow until they ballance it out.basicly there are too many air planes and it ruins the gameplay.if i wanted to play wargamings failed world of warplanes id play it dont force it on the world of warships players."It used to be good.
+Then Wargaming decided to change literally EVERYTHING in a single, massive patch. Spoilers: That didn't go too well.
+Now it's hot garbage. Battles are ZERO fun, carriers complain about being useless, everyone else complains about carriers being broken.
+The developers seem to be stuck into some kind of echo chamber, feedback from the community goes ignored, stupid sh_t no one needs, wants, or even joked about gets introduced.
+Stay away from this game with prejudice, at least until they take back that stupid carrier rework. Don't put time into this game right now. Don't put MONEY into this game. There has got to be something else you can play - yes, do yourself a favor and go play that instead. Thank me later""Great Game, garbage developers!
+but the game itself is great.""Very good game. Nice graphic. Good gameplay. But I can not recommend the steam version because it has so much annoying things.
+You can not use your original wargaming account (without removing steam api file).
+You can not install mod normally (without searching the internet for workaround way).
+You can not record replay nor watch the replay file.
+So yeah, after some hours on steam, I have to redownload the wargaming client and say goodbye to steam version."Don't bother installing this version if you're already have the WG net account. Why don't you developers take an example from War Thunder? That game could be played from their web account and also from Steam account, both account could be linked there. While here in WoWS either you stick with the client launcher or use the Steam version but unable to link your account and have to make a new account which is really sucks."it should be mixed review, but no such option on Steam
+The good:
+- warships, and plenty of them
+- the gameplay is not too taxing - player doesn't need APM spam to play well
+- the game is not pay to win, despite some opinions, as any ship requires good player. Premium ship in bad hands won't do any good.
+The mixed:
+- grind - I hate grind in any game, but it's bearable here, mostly due to fact that you don't need to get to max tier asap to have fun. Most tiers are enjoyable as they are, no need to rush, unless you want to go competitive (clan and rank battles). I personally enjoy the journey, but it may not be suited for players who want to get to top quickly.
+- more grind - while the game labels itself free to play, it takes ages to get anywhere without premium account. The latter isn't overly expensive fortunately, but it's still almost false advertising.
+
+The bad:
+- time gated events - unless you devote most of your free time to play WoWs, you will miss on event rewards more often than not, depending on how much grind event requires. It's less annoying for good players, as they achieve more per game.
+- premium ships cost fortune - I easily spent over 400$ over a year of play, and even though it was by choice, it leaves bad taste in my mouth - free to play my a*se. I'd rather pay monthly and get most goodies free.
+- economy - many different currencies (silver, gold, coal, steel, tokens) with overblown value to force player to spend real money.
+- matchmaking - one can get into 10 game winning/losing streak easily, but it's no fun if game ends quickly, regardless of result. Distribution of players is questionable, also distribution of ship classes - many games with 4 vs 1 radar ships, and visibility/spotting is extremely important.
+
+The game has good appeal, but is marred by questionable design choices, and while not pay-to-win, it's clearly pay-to-have fun."Can't use my WG account on Steam. Why then there is an option to bind both accounts? I don't feel the need to install another launcher."go to : ...\steamapps\common\World of Warships change name steam_api to something you like, log in WOWs again !!
+Thanks me later !"
